@@ -44,6 +44,294 @@
         "documentation": {}
     },
     {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "apps.users.schemas",
+        "description": "apps.users.schemas",
+        "isExtraImport": true,
+        "detail": "apps.users.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "Redis",
+        "importPath": "redis.asyncio",
+        "description": "redis.asyncio",
+        "isExtraImport": true,
+        "detail": "redis.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "BasePlugin",
+        "importPath": "plugins.base",
+        "description": "plugins.base",
+        "isExtraImport": true,
+        "detail": "plugins.base",
+        "documentation": {}
+    },
+    {
+        "label": "BasePlugin",
+        "importPath": "plugins.base",
+        "description": "plugins.base",
+        "isExtraImport": true,
+        "detail": "plugins.base",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "importPath": "settings",
+        "description": "settings",
+        "isExtraImport": true,
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "settings",
+        "description": "settings",
+        "isExtraImport": true,
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "registry",
+        "importPath": "registry",
+        "description": "registry",
+        "isExtraImport": true,
+        "detail": "registry",
+        "documentation": {}
+    },
+    {
+        "label": "CachePlugin",
+        "importPath": "plugins.cache.backend",
+        "description": "plugins.cache.backend",
+        "isExtraImport": true,
+        "detail": "plugins.cache.backend",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "core.config.base",
+        "description": "core.config.base",
+        "isExtraImport": true,
+        "detail": "core.config.base",
+        "documentation": {}
+    },
+    {
         "label": "bin_dir",
         "kind": 5,
         "importPath": ".venv.Scripts.activate_this",
@@ -125,12 +413,201 @@
         "documentation": {}
     },
     {
+        "label": "router",
+        "kind": 5,
+        "importPath": "apps.auth.api.v1.endpoints",
+        "description": "apps.auth.api.v1.endpoints",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/\")\nasync def login():\n    return {\"message\": \"User logged in successfully\"}",
+        "detail": "apps.auth.api.v1.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "apps.auth.api.v1.router",
+        "description": "apps.auth.api.v1.router",
+        "peekOfCode": "router = APIRouter(prefix=\"/auth\")\nrouter.include_router(endpoints.router)",
+        "detail": "apps.auth.api.v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "apps.users.api.v1.endpoints",
+        "description": "apps.users.api.v1.endpoints",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/\")\nasync def list_users():\n    return {\"message\": \"List of users\"}\n@router.get(\"/{user_id}\")\nasync def get_user(user_id: int):\n    return {\"message\": f\"User details for ID: {user_id}\"}",
+        "detail": "apps.users.api.v1.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "apps.users.api.v1.router",
+        "description": "apps.users.api.v1.router",
+        "peekOfCode": "router = APIRouter(prefix=\"/users\")\nrouter.include_router(endpoints.router)",
+        "detail": "apps.users.api.v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "peekOfCode": "class User(SQLModel, table=True):\n    id: int = Field(primary_key=True)\n    username: str = Field(unique=True)\n    email: str = Field(unique=True)\n    created_at: datetime = Field(default_factory=datetime.utcnow)",
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "apps.users.schemas",
+        "description": "apps.users.schemas",
+        "peekOfCode": "class UserCreate(BaseModel):\n    username: str\n    email: EmailStr\n    password: str",
+        "detail": "apps.users.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "kind": 6,
+        "importPath": "apps.users.services",
+        "description": "apps.users.services",
+        "peekOfCode": "class UserService:\n    def __init__(self):\n        pass\n    async def create_user(self, data: UserCreate) -> User:\n        user = User(**data.model_dump(exclude={'password'}))\n        return user",
+        "detail": "apps.users.services",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "kind": 2,
+        "importPath": "apps.users.services",
+        "description": "apps.users.services",
+        "peekOfCode": "def get_session():\n    pass\nclass UserService:\n    def __init__(self):\n        pass\n    async def create_user(self, data: UserCreate) -> User:\n        user = User(**data.model_dump(exclude={'password'}))\n        return user",
+        "detail": "apps.users.services",
+        "documentation": {}
+    },
+    {
+        "label": "BaseApp",
+        "kind": 6,
+        "importPath": "apps.base",
+        "description": "apps.base",
+        "peekOfCode": "class BaseApp(ABC):\n    @abstractmethod\n    def get_app_config(self) -> dict[str, Any]:\n        \"\"\"Get app configuration\"\"\"\n        pass\n    @abstractmethod\n    async def startup(self) -> None:\n        \"\"\"Run startup tasks\"\"\"\n        pass\n    @abstractmethod",
+        "detail": "apps.base",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "core.config.base",
+        "description": "core.config.base",
+        "peekOfCode": "class Settings(BaseSettings):\n    \"\"\"\n    Application settings and configuration.\n    All settings can be overridden by environment variables.\n    \"\"\"\n    # Core settings\n    PROJECT_NAME: str = \"FastAPI App\"\n    DEBUG: bool = False\n    API_V1_STR: str = \"/api/v1\"\n    # CORS",
+        "detail": "core.config.base",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "kind": 2,
+        "importPath": "core.config.base",
+        "description": "core.config.base",
+        "peekOfCode": "def get_settings() -> Settings:\n    \"\"\"Create cached settings instance.\"\"\"\n    return Settings()\nsettings = get_settings()",
+        "detail": "core.config.base",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "core.config.base",
+        "description": "core.config.base",
+        "peekOfCode": "settings = get_settings()",
+        "detail": "core.config.base",
+        "documentation": {}
+    },
+    {
+        "label": "CachePlugin",
+        "kind": 6,
+        "importPath": "plugins.cache.backend",
+        "description": "plugins.cache.backend",
+        "peekOfCode": "class CachePlugin(BasePlugin):\n    def __init__(self, url: str):\n        self.url = url\n        self.redis: Redis | None = None\n    async def initialize(self) -> None:\n        self.redis = Redis.from_url(self.url)\n    async def cleanup(self) -> None:\n        if self.redis:\n            await self.redis.close()\n    def get_app_config(self) -> dict[str, Any]:",
+        "detail": "plugins.cache.backend",
+        "documentation": {}
+    },
+    {
+        "label": "CacheConfig",
+        "kind": 6,
+        "importPath": "plugins.cache.config",
+        "description": "plugins.cache.config",
+        "peekOfCode": "class CacheConfig(BaseModel):\n    enabled: bool\n    url: str",
+        "detail": "plugins.cache.config",
+        "documentation": {}
+    },
+    {
+        "label": "BasePlugin",
+        "kind": 6,
+        "importPath": "plugins.base",
+        "description": "plugins.base",
+        "peekOfCode": "class BasePlugin(ABC):\n    @abstractmethod\n    async def initialize(self) -> None:\n        \"\"\"Initialize plugin resources\"\"\"\n        pass\n    @abstractmethod\n    async def cleanup(self) -> None:\n        \"\"\"Cleanup plugin resources\"\"\"\n        pass\n    @abstractmethod",
+        "detail": "plugins.base",
+        "documentation": {}
+    },
+    {
         "label": "main",
         "kind": 2,
         "importPath": "hello",
         "description": "hello",
         "peekOfCode": "def main():\n    print(\"Hello from fast-starter!\")\nif __name__ == \"__main__\":\n    main()",
         "detail": "hello",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def create_app() -> FastAPI:\n    app = FastAPI(\n        title=settings.PROJECT_NAME,\n        openapi_url=f\"{settings.API_V1_STR}/openapi.json\",\n        lifespan=lifespan,\n    )\n    ####### CORS Middleware and Configuration ######\n    app.add_middleware(\n        CORSMiddleware,\n        allow_origins=settings.BACKEND_CORS_ORIGINS,",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = create_app()\nif __name__ == \"__main__\":\n    import uvicorn\n    uvicorn.run(app, host=\"0.0.0.0\", port=8000)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ApplicationRegistry",
+        "kind": 6,
+        "importPath": "registry",
+        "description": "registry",
+        "peekOfCode": "class ApplicationRegistry:\n    def __init__(self):\n        self._apps: Dict[str, Any] = {}\n        self._plugins: Dict[str, BasePlugin] = {}\n        self._initialized: bool = False\n    def register_app(self, name: str, app_module: Any) -> None:\n        if self._initialized:\n            raise RuntimeError(\"Cannot register app after initialization\")\n        self._apps[name] = app_module\n    def register_plugin(self, name: str, plugin: BasePlugin) -> None:",
+        "detail": "registry",
+        "documentation": {}
+    },
+    {
+        "label": "registry",
+        "kind": 5,
+        "importPath": "registry",
+        "description": "registry",
+        "peekOfCode": "registry = ApplicationRegistry()",
+        "detail": "registry",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "__all__ = ['settings', 'INSTALLED_APPS']\n# Define installed apps\nINSTALLED_APPS = {\n    \"auth\": \"apps.auth\",\n    \"users\": \"apps.users\",\n}",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "settings",
+        "description": "settings",
+        "peekOfCode": "INSTALLED_APPS = {\n    \"auth\": \"apps.auth\",\n    \"users\": \"apps.users\",\n}",
+        "detail": "settings",
         "documentation": {}
     }
 ]
