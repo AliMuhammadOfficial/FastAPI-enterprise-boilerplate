@@ -1,0 +1,9 @@
+[project]
+name = "fast-starter"
+version = "0.1.0"
+description = "A modern Python(FastAPI + SQLModel) starter template."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.115.6",
+]
