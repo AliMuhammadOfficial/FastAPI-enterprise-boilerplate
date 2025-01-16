@@ -548,15 +548,6 @@
         "documentation": {}
     },
     {
-        "label": "main",
-        "kind": 2,
-        "importPath": "hello",
-        "description": "hello",
-        "peekOfCode": "def main():\n    print(\"Hello from fast-starter!\")\nif __name__ == \"__main__\":\n    main()",
-        "detail": "hello",
-        "documentation": {}
-    },
-    {
         "label": "create_app",
         "kind": 2,
         "importPath": "main",
